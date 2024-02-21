@@ -7,5 +7,9 @@
     "unityRelease": "27f1",
     "author": {
         "name": "IRODUKURI"
-    }
+    },
+    "dependencies": {
+    "com.synesthesias.plateau-unity-sdk": "1.0.0",
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
 }
