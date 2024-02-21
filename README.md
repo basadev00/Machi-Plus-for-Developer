@@ -1,8 +1,3 @@
-# 【開発環境】Dev_MachiPlusForDeveloper
-開発環境のため、GitリポジトリにはMachiPlusForCloudも含んでいます。  
-以下の説明文はMachiplusForDeveloperだけのものです。
-
---------------
 ![](Documentation~/resources/MachiPlus-logos_Developer.png)
 
 
