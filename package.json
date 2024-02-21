@@ -11,5 +11,12 @@
     "dependencies": {
     "com.synesthesias.plateau-unity-sdk": "1.0.0",
     "com.unity.nuget.newtonsoft-json": "3.2.1"
-  }
+  },
+     "samples": [
+        {
+            "displayName": "Machi Plus for Developer Samples",
+            "description": "Machi Plus for Developer のサンプルです。",
+            "path": "Samples~"
+        }
+    ]
 }
