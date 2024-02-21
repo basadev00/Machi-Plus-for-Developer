@@ -1,0 +1,11 @@
+{
+    "name": "com.irodukuri.machi-plus-for-developer",
+    "version": "1.0.0",
+    "displayName": "Machi Plus for Developer",
+    "description": "このパッケージには、PLATEAUのLOD1建物データのテクスチャをMachiPlusプラットフォームから取得するためのAPI、サンプルが含まれます。Machi Plus For Developerを利用することで、PLATEAUのLOD1でも実世界を舞台にしたアプリケーションの開発を行うことができます。",
+    "unity": "2021.3",
+    "unityRelease": "27f1",
+    "author": {
+        "name": "IRODUKURI"
+    }
+}
