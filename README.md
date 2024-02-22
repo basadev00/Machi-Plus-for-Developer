@@ -14,7 +14,6 @@ Machi Plus For Developer を利用することで、PLATEAUのLOD1の建物を�
 
 # サンプルシーン
 PackageManagerからダウンロードできるサンプルシーンを使ってツールの動作を確認が可能です。
-https://github.com/basadev00/Machi-Plus-for-Developer/assets/69620523/34890d6d-6537-4107-9356-8f7231c7b439
 
 # セットアップ環境
 
@@ -54,17 +53,15 @@ PLATEAU SDKを利用し、対応エリアの3D都市モデルをシーン上へ�
 1. 導入したいバージョンを確認するため、 [Machi Plus for Developer のリリースページ](https://github.com/basadev00/Machi-Plus-for-Developer/releases) にアクセスします。
 2. リリースのリンクをクリックし、導入したいバージョンのタグ（画像の箇所）をメモします。
 ![](Documentation~/resources/インストール手順1.png)
-
 3. Unityのメニューバーから Window → Package Manager を選択します。
 4. Package Manager ウィンドウの左上の＋ボタンから Add pacakge from git URL... を選択します。
 5. 入力欄に次を入力します。 
-G. GithubリポジトリのURLに、#(先ほどメモしたタグ名) を付けたものを入力してください。  例えば次のとおりです：
-https://github.com/basadev00/Machi-Plus-for-Developer.git#v1.0.0
+6. GithubリポジトリのURLに、#(先ほどメモしたタグ名) を付けたものを入力してください。
+例えば次のとおりです：https://github.com/basadev00/Machi-Plus-for-Developer.git#v1.0.0
 7. Add ボタンを押します。
 ![](Documentation~/resources/インストール手順2.png)
-  
-9. ウィンドウのパッケージ一覧に Machi Plus for Developer が表示されたら完了です。
-10. サンプルシーンはSamplesタブからダウンロードが可能です。
+8. ウィンドウのパッケージ一覧に Machi Plus for Developer が表示されたら完了です。
+9. サンプルシーンはSamplesタブからダウンロードが可能です。
 ![](Documentation~/resources/インストール手順3.png)
 
 
